@@ -1,4 +1,4 @@
-#### Hi there 👋 Nice to meet you, I'm Sandya (she/her)! 
+#### Hi there 👋 Nice to meet you, I'm Sandya! 
 
 - 🇮🇩 Born and raised in Jakarta, Indonesia, then moved to the U.S. for college 2 years ago
 - 📚 Currently now a senior double majoring in Data Science and Environmental Science at University of California, Berkeley 
